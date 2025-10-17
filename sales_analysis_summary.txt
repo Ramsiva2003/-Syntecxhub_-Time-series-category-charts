@@ -1,0 +1,18 @@
+
+Sales Analysis Summary:
+------------------------
+1. The 'Sales Over Time' line chart shows sales patterns across days, helping identify high-performing periods.
+2. The 'Monthly Sales' bar chart reveals how performance varies month to month.
+3. The 'Category Comparison' bar chart compares total sales across product categories.
+4. The 'Category Share' pie chart highlights which category dominates the market.
+
+Visual formatting choices:
+- Titles and axis labels clearly describe each visualization.
+- Legends and color schemes improve readability.
+- Saved all charts as PNG files for submission.
+
+All files generated:
+- sales_over_time.png
+- monthly_sales.png
+- category_comparison.png
+- category_share.png
